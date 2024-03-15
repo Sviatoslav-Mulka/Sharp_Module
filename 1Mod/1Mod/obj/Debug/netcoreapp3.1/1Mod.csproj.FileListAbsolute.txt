@@ -1,0 +1,13 @@
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/bin/Debug/netcoreapp3.1/1Mod.deps.json
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/bin/Debug/netcoreapp3.1/1Mod.runtimeconfig.json
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/bin/Debug/netcoreapp3.1/1Mod.runtimeconfig.dev.json
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/bin/Debug/netcoreapp3.1/1Mod.dll
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/bin/Debug/netcoreapp3.1/1Mod.pdb
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.csproj.AssemblyReference.cache
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.AssemblyInfoInputs.cache
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.AssemblyInfo.cs
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.csproj.CoreCompileInputs.cache
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.dll
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.pdb
+/Users/svatoslavmulka/Desktop/sharp/Mod1/1Mod/1Mod/obj/Debug/netcoreapp3.1/1Mod.genruntimeconfig.cache
